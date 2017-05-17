@@ -5,6 +5,7 @@ public class ew {
 
     public static void main(String [] args)
     {
-        System.out.println("gh");
+        System.out.println("gadfasdasdh");
+        System.out.println("gadfasdasdh");
     }
 }
